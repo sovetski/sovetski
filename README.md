@@ -19,19 +19,19 @@
 <p align="center">
 <picture>
 	<source
-	  srcset="https://github-readme-stats.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true&theme=dark"
+	  srcset="https://github-readme-stats-wine-five-23.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true&theme=dark"
 	  media="(prefers-color-scheme: dark)"
 	/>
 	<source
-	  srcset="https://github-readme-stats.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true&theme=default"
+	  srcset="https://github-readme-stats-wine-five-23.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true&theme=default"
 	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true" />
+	<img src="https://github-readme-stats-wine-five-23.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true" />
 </picture>
 </p>
 
 <p align="center">
 <picture>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovetski&layout=donut" />
+	<img src="https://github-readme-stats-wine-five-23.vercel.app/api/top-langs/?username=sovetski&layout=donut" />
 </picture>
 </p>
