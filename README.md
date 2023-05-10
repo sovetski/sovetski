@@ -13,3 +13,25 @@
 - 👨‍💻 I am currently working in a company and on my side projects in my free time (a bit too much at times).
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+## There are some statistics about my profile
+
+<p align="center">
+<picture>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true&theme=dark"
+	  media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	  srcset="https://github-readme-stats.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true&theme=default"
+	  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=sovetski&count_private=true&show_icons=true&hide_title=true" />
+</picture>
+</p>
+
+<p align="center">
+<picture>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovetski&layout=donut" />
+</picture>
+</p>
