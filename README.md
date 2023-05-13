@@ -7,7 +7,7 @@
 	<li>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
 </ul>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="assets/img/dev-activity.gif" />
 </p>
 
 <h2> My activity </h2>
