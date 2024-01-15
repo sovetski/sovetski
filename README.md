@@ -5,7 +5,6 @@
 	<li>👨‍💻 I am currently working in a company and on my side projects in my free time (a bit too much at times).</li>
 	<li>📚 Learning everything about Frontend and Backend technologies 😅</li>
 	<li>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
-	<li>🧠 I don't like reinventing the wheel, but if the existing solution doesn't meet my needs, I'll create a better one (at least I'll try)</li>
 </ul>
 </p>
 
