@@ -14,7 +14,7 @@
 <img alt="GIF" height="160px" src="assets/img/dev-activity.gif" />
 </p>
 
-<h5> Even if for me the activity on github does not reflect the level of a developer, I know that for some it is important. I try to contribute as much as possible in my free time, but unfortunately not all agencies store their project on GitHub, which means that despite the fact that I work every day, you don't see my activity on GitHub 👀</h5>
+<h4> Even if for me the activity on github does not reflect the level of a developer, I know that for some it is important. I try to contribute as much as possible in my free time, but unfortunately not all agencies store their project on GitHub, which means that despite the fact that I work every day, you don't see my activity on GitHub 👀</h4>
 
 <p align="center">
   <picture>
