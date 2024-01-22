@@ -2,9 +2,9 @@
 
 <p>
 <ul>
-	<li>👨‍💻 I am currently working in a company and on my side projects in my free time (a bit too much at times).</li>
-	<li>📚 Learning everything about Frontend and Backend technologies 😅</li>
-	<li>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.</li>
+	<li>👨‍💻 I am currently working in a company and on my side projects in my free time.</li>
+	<li>📚 Learning everything about Frontend and Backend technologies</li>
+	<li>💪🏼 Future Goals: Learn more technologies, improving myself.</li>
 </ul>
 </p>
 
